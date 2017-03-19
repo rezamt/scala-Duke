@@ -1,10 +1,9 @@
 # scala-Duke
 
+``` bash
 # Running the command line
 
 /scala-x-xx-x/bin/scala
-
-``` bash
 
 # enabling copy and paste mode
 
