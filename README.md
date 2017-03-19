@@ -3,7 +3,7 @@
 # Running the command line
 /scala-x-xx-x/bin/scala
 
-###bash
+### bash
 
 # enabling copy and paste mode
 
